@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=45 Pin=MCU-45
+Removed Pin From Net: NetName=46 Pin=MCU-46
+Change Component DesignItemId : Designator=J2 Old DesignItemId= New DesignItemId=572f0a5267336060156cc31caef0afa
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Added Pin To Net: NetName=CAN2 INT1N Pin=MCU-45
+Added Pin To Net: NetName=CAN2 INT0N Pin=MCU-46
+Added Member To Class: ClassName=Sheet1 Member=Component CAN2 CON MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component J2 83611-9006
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

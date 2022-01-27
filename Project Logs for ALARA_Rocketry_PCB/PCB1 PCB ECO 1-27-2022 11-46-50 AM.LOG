@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GPS INT Pin=MCU-47
+Removed Pin From Net: NetName=GPS TP Pin=MCU-55
+Removed Pin From Net: NetName=GPS INT Pin=P2-11
+Removed Pin From Net: NetName=GPS TP Pin=P2-19
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Added Pin To Net: NetName=GPS TP Pin=MCU-13
+Added Pin To Net: NetName=GPS INT Pin=MCU-14
+Added Pin To Net: NetName=GPS TP Pin=P1-13
+Added Pin To Net: NetName=GPS INT Pin=P1-14
+Added Pin To Net: NetName=47 Pin=MCU-47
+Added Pin To Net: NetName=47 Pin=P2-11
+Added Net: Name=47
+Added Pin To Net: NetName=55 Pin=MCU-55
+Added Pin To Net: NetName=55 Pin=P2-19
+Added Net: Name=55
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

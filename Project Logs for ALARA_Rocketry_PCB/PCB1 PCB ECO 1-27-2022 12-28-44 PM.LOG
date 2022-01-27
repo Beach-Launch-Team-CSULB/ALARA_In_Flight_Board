@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=LoRa INT Pin=MCU-77
+Removed Pin From Net: NetName=LoRa RST Pin=MCU-79
+Removed Pin From Net: NetName=LoRa CSN Pin=MCU-80
+Removed Pin From Net: NetName=55 Pin=MCU-
+Removed Pin From Net: NetName=LoRa INT Pin=P3-5
+Removed Pin From Net: NetName=LoRa RST Pin=P3-7
+Removed Pin From Net: NetName=LoRa CSN Pin=P3-8
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Pin To Net: NetName=LoRa INT Pin=MCU-103
+Added Pin To Net: NetName=LoRa RST Pin=MCU-104
+Added Pin To Net: NetName=LoRa CSN Pin=MCU-105
+Added Pin To Net: NetName=LoRa INT Pin=P3-31
+Added Pin To Net: NetName=LoRa RST Pin=P3-32
+Added Pin To Net: NetName=LoRa CSN Pin=P3-33
+Added Pin To Net: NetName=77 Pin=MCU-77
+Added Pin To Net: NetName=77 Pin=P3-5
+Added Net: Name=77
+Added Pin To Net: NetName=79 Pin=MCU-79
+Added Pin To Net: NetName=79 Pin=P3-7
+Added Net: Name=79
+Added Pin To Net: NetName=80 Pin=MCU-80
+Added Pin To Net: NetName=80 Pin=P3-8
+Added Net: Name=80
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

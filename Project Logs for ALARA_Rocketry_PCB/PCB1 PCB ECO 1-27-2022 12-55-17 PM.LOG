@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=CAN1 CSN Pin=MCU-64
+Removed Pin From Net: NetName=CAN1 INTN Pin=MCU-65
+Removed Pin From Net: NetName=CAN1 INT0N Pin=MCU-66
+Removed Pin From Net: NetName=CAN1 INT1N Pin=MCU-67
+Removed Pin From Net: NetName=CAN1 CLKO Pin=MCU-68
+Removed Pin From Net: NetName=77 Pin=MCU-77
+Removed Pin From Net: NetName=79 Pin=MCU-79
+Removed Pin From Net: NetName=80 Pin=MCU-80
+Removed Pin From Net: NetName=81 Pin=MCU-81
+Removed Pin From Net: NetName=82 Pin=MCU-82
+Removed Pin From Net: NetName=CAN1 CSN Pin=P2-28
+Removed Pin From Net: NetName=CAN1 INTN Pin=P2-29
+Removed Pin From Net: NetName=CAN1 INT0N Pin=P2-30
+Removed Pin From Net: NetName=CAN1 INT1N Pin=P2-31
+Removed Pin From Net: NetName=CAN1 CLKO Pin=P2-32
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Pin To Net: NetName=CAN2 CLKO Pin=MCU-64
+Added Pin To Net: NetName=CAN2 INTN Pin=MCU-65
+Added Pin To Net: NetName=CAN2 CSN Pin=MCU-66
+Added Pin To Net: NetName=CAN2 INT0N Pin=MCU-67
+Added Pin To Net: NetName=CAN2 INT1N Pin=MCU-68
+Added Pin To Net: NetName=CAN2 CLKO Pin=P2-28
+Added Pin To Net: NetName=CAN2 INTN Pin=P2-29
+Added Pin To Net: NetName=CAN2 CSN Pin=P2-30
+Added Pin To Net: NetName=CAN2 INT0N Pin=P2-31
+Added Pin To Net: NetName=CAN2 INT1N Pin=P2-32
+Added Pin To Net: NetName=77a Pin=MCU-77
+Added Net: Name=77a
+Added Pin To Net: NetName=79a Pin=MCU-79
+Added Net: Name=79a
+Added Pin To Net: NetName=80a Pin=MCU-80
+Added Net: Name=80a
+Added Pin To Net: NetName=81a Pin=MCU-81
+Added Net: Name=81a
+Added Pin To Net: NetName=82a Pin=MCU-82
+Added Net: Name=82a
+Added Member To Class: ClassName=Sheet1 Member=Component LoRa SPI Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

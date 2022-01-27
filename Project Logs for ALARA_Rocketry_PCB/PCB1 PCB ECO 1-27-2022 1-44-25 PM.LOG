@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=CAN2 INT1N Pin=MCU-45
+Removed Pin From Net: NetName=CAN2 INT0N Pin=MCU-46
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Added Pin To Net: NetName=DSUB IO2 Pin=MCU-45
+Added Pin To Net: NetName=DSUB IO1 Pin=MCU-46
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

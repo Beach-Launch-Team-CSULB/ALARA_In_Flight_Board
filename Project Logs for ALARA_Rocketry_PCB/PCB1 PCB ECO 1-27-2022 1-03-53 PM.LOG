@@ -1,0 +1,13 @@
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Pin To Net: NetName=CAN1 INTN Pin=MCU-77
+Added Pin To Net: NetName=CAN1 CLKO Pin=MCU-79
+Added Pin To Net: NetName=CAN1 CSN Pin=MCU-80
+Added Pin To Net: NetName=CAN1 INT1N Pin=MCU-81
+Added Pin To Net: NetName=CAN1 INT0N Pin=MCU-82
+Added Pin To Net: NetName=CAN1 INTN Pin=P3-5
+Added Pin To Net: NetName=CAN1 CLKO Pin=P3-7
+Added Pin To Net: NetName=CAN1 CSN Pin=P3-8
+Added Pin To Net: NetName=CAN1 INT1N Pin=P3-9
+Added Pin To Net: NetName=CAN1 INT0N Pin=P3-10
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
