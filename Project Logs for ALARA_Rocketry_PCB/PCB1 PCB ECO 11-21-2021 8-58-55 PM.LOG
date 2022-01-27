@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=BOOT? NewDesignator=BOOT
+Change Net Name : Old Net Name=NetBOOT?_3 New Net Name=NetBOOT_3
+Change Net Name : Old Net Name=NetBOOT?_4 New Net Name=NetBOOT_4
+Change Net Name : Old Net Name=NetBOOT?_6 New Net Name=NetBOOT_6
+Change Net Name : Old Net Name=NetBOOT?_7 New Net Name=NetBOOT_7
+Change Net Name : Old Net Name=NetBOOT?_8 New Net Name=NetBOOT_8
+Change Net Name : Old Net Name=NetBOOT?_9 New Net Name=NetBOOT_9
+Change Net Name : Old Net Name=NetBOOT?_10 New Net Name=NetBOOT_10
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P5 Header 3X2

@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=PCBComponent_1 New Footprint=XT30
+Added Pin To Net: NetName=NetBAT JP_2 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

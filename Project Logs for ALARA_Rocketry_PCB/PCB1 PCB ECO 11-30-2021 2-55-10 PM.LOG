@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=3.3V Pin=MCU-42
+Added Pin To Net: NetName=3.3V Pin=P2-6
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMU INT Pin=MCU-82
+Removed Pin From Net: NetName=IMU INT Pin=P3-10
+Added Pin To Net: NetName=82 Pin=MCU-82
+Added Pin To Net: NetName=82 Pin=P3-10
+Added Net: Name=82
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

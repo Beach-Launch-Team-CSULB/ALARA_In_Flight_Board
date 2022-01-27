@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C99 Old Footprint=PCBComponent_1 New Footprint=0603 Cap
+Added Pin To Net: NetName=NetC40_1 Pin=C99-1
+Added Pin To Net: NetName=GND Pin=C99-2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component Y3 CX2016DB40000D0FLJCC

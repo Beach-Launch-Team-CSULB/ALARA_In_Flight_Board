@@ -1,0 +1,167 @@
+Removed Pin From Net: NetName=NetGPS_4 Pin=P2-19
+Added Pin To Net: NetName=3.3V Pin=MCU-21
+Added Pin To Net: NetName=CAN1 INTN Pin=MCU-65
+Added Pin To Net: NetName=CAN1 INT0N Pin=MCU-66
+Added Pin To Net: NetName=CAN1 INT1N Pin=MCU-67
+Added Pin To Net: NetName=CAN1 CLKO Pin=MCU-68
+Added Pin To Net: NetName=SCL Pin=MCU-83
+Added Pin To Net: NetName=SDA Pin=MCU-84
+Added Pin To Net: NetName=NRF IRQ Pin=MCU-95
+Added Pin To Net: NetName=NRF CE Pin=MCU-96
+Added Pin To Net: NetName=ACC CSN Pin=MCU-106
+Added Pin To Net: NetName=BPS CSN Pin=MCU-109
+Added Pin To Net: NetName=SCLK Pin=MCU-110
+Added Pin To Net: NetName=MOSI Pin=MCU-111
+Added Pin To Net: NetName=MISO Pin=MCU-112
+Added Pin To Net: NetName=NRF CSN Pin=MCU-127
+Added Pin To Net: NetName=ACC INT1 Pin=MCU-129
+Added Pin To Net: NetName=ACC INT2 Pin=MCU-130
+Added Pin To Net: NetName=ACC TRIG Pin=MCU-131
+Added Pin To Net: NetName=USB0 DP Pin=P1-19
+Added Pin To Net: NetName=USB0 DM Pin=P1-20
+Added Pin To Net: NetName=3.3V Pin=P1-21
+Added Pin To Net: NetName=CAN1 CSN Pin=P2-28
+Added Pin To Net: NetName=CAN1 INTN Pin=P2-29
+Added Pin To Net: NetName=CAN1 INT0N Pin=P2-30
+Added Pin To Net: NetName=CAN1 CLKO Pin=P2-31
+Added Pin To Net: NetName=CAN1 CLKO Pin=P2-32
+Added Pin To Net: NetName=SCL Pin=P3-11
+Added Pin To Net: NetName=SDA Pin=P3-12
+Added Pin To Net: NetName=NRF IRQ Pin=P3-23
+Added Pin To Net: NetName=NRF CE Pin=P3-24
+Added Pin To Net: NetName=ACC CSN Pin=P3-34
+Added Pin To Net: NetName=BPS CSN Pin=P4-1
+Added Pin To Net: NetName=SCLK Pin=P4-2
+Added Pin To Net: NetName=MOSI Pin=P4-3
+Added Pin To Net: NetName=MISO Pin=P4-4
+Added Pin To Net: NetName=NRF CSN Pin=P4-19
+Added Pin To Net: NetName=ACC INT1 Pin=P4-21
+Added Pin To Net: NetName=ACC INT2 Pin=P4-22
+Added Pin To Net: NetName=ACC TRIG Pin=P4-23
+Change Net Name : Old Net Name=NetBoot J_1 New Net Name=Reset
+Change Net Name : Old Net Name=NetBoot J_2 New Net Name=DD
+Change Net Name : Old Net Name=NetBoot J_3 New Net Name=Prog
+Change Net Name : Old Net Name=NetBoot J_4 New Net Name=DC
+Change Net Name : Old Net Name=NetBoot J_6 New Net Name=DE
+Change Net Name : Old Net Name=NetC6_1 New Net Name=VREF OUT
+Change Net Name : Old Net Name=NetC6_2 New Net Name=VREFL
+Change Net Name : Old Net Name=NetC7_1 New Net Name=VREFH
+Change Net Name : Old Net Name=NetC12_1 New Net Name=VDDA
+Change Net Name : Old Net Name=NetGPS_4 New Net Name=GPS TP
+Change Net Name : Old Net Name=NetMCU_1 New Net Name=SD DAT1
+Change Net Name : Old Net Name=NetMCU_2 New Net Name=SD DAT0
+Change Net Name : Old Net Name=NetMCU_3 New Net Name=SD CLK
+Change Net Name : Old Net Name=NetMCU_4 New Net Name=SD CMD
+Change Net Name : Old Net Name=NetMCU_7 New Net Name=SD DAT3
+Change Net Name : Old Net Name=NetMCU_8 New Net Name=SD DAT2
+Change Net Name : Old Net Name=NetMCU_9 New Net Name=9
+Change Net Name : Old Net Name=NetMCU_10 New Net Name=10
+Change Net Name : Old Net Name=NetMCU_11 New Net Name=11
+Change Net Name : Old Net Name=NetMCU_12 New Net Name=12
+Change Net Name : Old Net Name=NetMCU_13 New Net Name=13
+Change Net Name : Old Net Name=NetMCU_14 New Net Name=14
+Change Net Name : Old Net Name=NetMCU_15 New Net Name=15
+Change Net Name : Old Net Name=NetMCU_22 New Net Name=22
+Change Net Name : Old Net Name=NetMCU_23 New Net Name=23
+Change Net Name : Old Net Name=NetMCU_24 New Net Name=24
+Change Net Name : Old Net Name=NetMCU_25 New Net Name=25
+Change Net Name : Old Net Name=NetMCU_26 New Net Name=26
+Change Net Name : Old Net Name=NetMCU_27 New Net Name=27
+Change Net Name : Old Net Name=NetMCU_28 New Net Name=28
+Change Net Name : Old Net Name=NetMCU_29 New Net Name=29
+Change Net Name : Old Net Name=NetMCU_30 New Net Name=30
+Change Net Name : Old Net Name=NetMCU_35 New Net Name=35
+Change Net Name : Old Net Name=NetMCU_36 New Net Name=36
+Change Net Name : Old Net Name=NetMCU_38 New Net Name=38
+Change Net Name : Old Net Name=NetMCU_39 New Net Name=39
+Change Net Name : Old Net Name=NetMCU_40 New Net Name=XTAL32
+Change Net Name : Old Net Name=NetMCU_41 New Net Name=EXTAL32
+Change Net Name : Old Net Name=NetMCU_42 New Net Name=42
+Change Net Name : Old Net Name=NetMCU_45 New Net Name=45
+Change Net Name : Old Net Name=NetMCU_46 New Net Name=46
+Change Net Name : Old Net Name=NetMCU_48 New Net Name=48
+Change Net Name : Old Net Name=NetMCU_49 New Net Name=49
+Change Net Name : Old Net Name=NetMCU_50 New Net Name=50
+Change Net Name : Old Net Name=NetMCU_53 New Net Name=53
+Change Net Name : Old Net Name=NetMCU_54 New Net Name=54
+Change Net Name : Old Net Name=NetMCU_58 New Net Name=58
+Change Net Name : Old Net Name=NetMCU_59 New Net Name=59
+Change Net Name : Old Net Name=NetMCU_60 New Net Name=60
+Change Net Name : Old Net Name=NetMCU_61 New Net Name=61
+Change Net Name : Old Net Name=NetMCU_62 New Net Name=62
+Change Net Name : Old Net Name=NetMCU_63 New Net Name=63
+Change Net Name : Old Net Name=NetMCU_69 New Net Name=69
+Change Net Name : Old Net Name=NetMCU_72 New Net Name=PTA18
+Change Net Name : Old Net Name=NetMCU_73 New Net Name=PTA19
+Change Net Name : Old Net Name=NetMCU_74 New Net Name=74
+Change Net Name : Old Net Name=NetMCU_75 New Net Name=75
+Change Net Name : Old Net Name=NetMCU_76 New Net Name=76
+Change Net Name : Old Net Name=NetMCU_77 New Net Name=77
+Change Net Name : Old Net Name=NetMCU_78 New Net Name=78
+Change Net Name : Old Net Name=NetMCU_79 New Net Name=79
+Change Net Name : Old Net Name=NetMCU_80 New Net Name=80
+Change Net Name : Old Net Name=NetMCU_81 New Net Name=81
+Change Net Name : Old Net Name=NetMCU_82 New Net Name=IMU INT
+Change Net Name : Old Net Name=NetMCU_85 New Net Name=85
+Change Net Name : Old Net Name=NetMCU_86 New Net Name=86
+Change Net Name : Old Net Name=NetMCU_87 New Net Name=87
+Change Net Name : Old Net Name=NetMCU_88 New Net Name=88
+Change Net Name : Old Net Name=NetMCU_89 New Net Name=89
+Change Net Name : Old Net Name=NetMCU_90 New Net Name=90
+Change Net Name : Old Net Name=NetMCU_91 New Net Name=91
+Change Net Name : Old Net Name=NetMCU_92 New Net Name=92
+Change Net Name : Old Net Name=NetMCU_97 New Net Name=97
+Change Net Name : Old Net Name=NetMCU_98 New Net Name=98
+Change Net Name : Old Net Name=NetMCU_99 New Net Name=99
+Change Net Name : Old Net Name=NetMCU_100 New Net Name=100
+Change Net Name : Old Net Name=NetMCU_101 New Net Name=101
+Change Net Name : Old Net Name=NetMCU_102 New Net Name=102
+Change Net Name : Old Net Name=NetMCU_103 New Net Name=103
+Change Net Name : Old Net Name=NetMCU_104 New Net Name=104
+Change Net Name : Old Net Name=NetMCU_105 New Net Name=105
+Change Net Name : Old Net Name=NetMCU_113 New Net Name=113
+Change Net Name : Old Net Name=NetMCU_114 New Net Name=114
+Change Net Name : Old Net Name=NetMCU_115 New Net Name=115
+Change Net Name : Old Net Name=NetMCU_116 New Net Name=116
+Change Net Name : Old Net Name=NetMCU_117 New Net Name=117
+Change Net Name : Old Net Name=NetMCU_118 New Net Name=118
+Change Net Name : Old Net Name=NetMCU_119 New Net Name=119
+Change Net Name : Old Net Name=NetMCU_120 New Net Name=120
+Change Net Name : Old Net Name=NetMCU_123 New Net Name=123
+Change Net Name : Old Net Name=NetMCU_124 New Net Name=124
+Change Net Name : Old Net Name=NetMCU_125 New Net Name=125
+Change Net Name : Old Net Name=NetMCU_126 New Net Name=126
+Change Net Name : Old Net Name=NetMCU_128 New Net Name=128
+Change Net Name : Old Net Name=NetMCU_132 New Net Name=132
+Change Net Name : Old Net Name=NetMCU_133 New Net Name=133
+Change Net Name : Old Net Name=NetMCU_136 New Net Name=136
+Change Net Name : Old Net Name=NetMCU_137 New Net Name=137
+Change Net Name : Old Net Name=NetMCU_138 New Net Name=138
+Change Net Name : Old Net Name=NetMCU_139 New Net Name=139
+Change Net Name : Old Net Name=NetMCU_140 New Net Name=140
+Change Net Name : Old Net Name=NetMCU_141 New Net Name=141
+Change Net Name : Old Net Name=NetMCU_142 New Net Name=142
+Change Net Name : Old Net Name=NetMCU_143 New Net Name=143
+Change Net Name : Old Net Name=NetMCU_144 New Net Name=144
+Added Pin To Net: NetName=47 Pin=P2-11
+Added Net: Name=47
+Added Pin To Net: NetName=51 Pin=P2-15
+Added Net: Name=51
+Added Pin To Net: NetName=52 Pin=P2-16
+Added Net: Name=52
+Added Pin To Net: NetName=55 Pin=P2-19
+Added Net: Name=55
+Added Pin To Net: NetName=BOOT PTA6 Pin=BOOT-6
+Added Pin To Net: NetName=BOOT PTA6 Pin=MCU-51
+Added Net: Name=BOOT PTA6
+Added Pin To Net: NetName=BOOT PTB1 Pin=BOOT-9
+Added Pin To Net: NetName=BOOT PTB1 Pin=MCU-52
+Added Net: Name=BOOT PTB1
+Added Pin To Net: NetName=GPS INT Pin=GPS-5
+Added Pin To Net: NetName=GPS INT Pin=MCU-47
+Added Net: Name=GPS INT
+Added Pin To Net: NetName=USB0_DM Pin=MCU-20
+Added Net: Name=USB0_DM
+Added Pin To Net: NetName=USB0_DP Pin=MCU-19
+Added Net: Name=USB0_DP
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

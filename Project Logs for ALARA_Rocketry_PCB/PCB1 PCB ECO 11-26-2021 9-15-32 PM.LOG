@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC39_1 Pin=Y3-1
+Removed Pin From Net: NetName=GND Pin=Y3-2
+Removed Pin From Net: NetName=NetC40_1 Pin=Y3-3
+Removed Pin From Net: NetName=GND Pin=Y3-4
+Removed Pin From Net: NetName=NetC42_1 Pin=Y4-1
+Removed Pin From Net: NetName=GND Pin=Y4-2
+Removed Pin From Net: NetName=NetC43_1 Pin=Y4-3
+Removed Pin From Net: NetName=GND Pin=Y4-4
+Removed Member From Class: ClassName=Sheet1 Member=Y4
+Removed Member From Class: ClassName=Sheet1 Member=Y5
+Change Component Designator: OldDesignator=Y5 NewDesignator=Y3
+Added Component: Designator=C99(PCBComponent_1)
+Added Pin To Net: NetName=NetC39_1 Pin=Y3-1
+Added Pin To Net: NetName=GND Pin=Y3-2
+Added Pin To Net: NetName=NetC40_1 Pin=Y3-3
+Added Pin To Net: NetName=GND Pin=Y3-4
+Added Member To Class: ClassName=Sheet1 Member=Component C99 C?
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

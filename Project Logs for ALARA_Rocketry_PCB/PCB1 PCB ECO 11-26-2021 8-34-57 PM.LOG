@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=CAN2 CON NewDesignator=CAN1 CON
+Change Component Designator: OldDesignator=CAN2 TRAN NewDesignator=CAN1 TRAN
+Change Net Name : Old Net Name=NetCAN2 CON_1 New Net Name=NetCAN1 CON_1
+Change Net Name : Old Net Name=NetCAN2 CON_2 New Net Name=NetCAN1 CON_2
+Added Pin To Net: NetName=NetCAN2 CON_1 Pin=CAN2 CON-1
+Added Pin To Net: NetName=NetCAN2 CON_1 Pin=CAN2 TRAN-1
+Added Net: Name=NetCAN2 CON_1
+Added Pin To Net: NetName=NetCAN2 CON_2 Pin=CAN2 CON-2
+Added Pin To Net: NetName=NetCAN2 CON_2 Pin=CAN2 TRAN-4
+Added Net: Name=NetCAN2 CON_2
+Added Member To Class: ClassName=Sheet1 Member=Component CAN1 TRAN MCP2542FDT-E/MNY
+Added Member To Class: ClassName=Sheet1 Member=Component CAN2 CON MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NOR2 CS Pin=MCU-114
+Added Pin To Net: NetName=NOR1 CS Pin=MCU-115
+Added Pin To Net: NetName=NOR2 CS Pin=P4-6
+Added Pin To Net: NetName=NOR1 CS Pin=P4-7
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

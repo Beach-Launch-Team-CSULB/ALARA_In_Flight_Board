@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CAN1 CLKO Pin=P2-31
+Added Pin To Net: NetName=CAN1 INT1N Pin=P2-31
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Room: Name=Sheet1

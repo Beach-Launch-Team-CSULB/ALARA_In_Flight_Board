@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=SCK Pin=GPS-17
+Added Pin To Net: NetName=SCK Pin=IMU-23
+Added Pin To Net: NetName=SCK Pin=MCU-83
+Added Pin To Net: NetName=SCK Pin=P3-11
+Added Pin To Net: NetName=SCK Pin=R11-1
+Change Net Name : Old Net Name=IMU 3.3V New Net Name=3.3V
+Change Net Name : Old Net Name=IMU SDA New Net Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2542FDT-E/MNY

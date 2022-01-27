@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=3.3V Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=3.3V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=IMU-9
+Removed Pin From Net: NetName=SCL Pin=IMU-23
+Removed Pin From Net: NetName=SDA Pin=IMU-24
+Removed Pin From Net: NetName=SDA Pin=R11-1
+Removed Pin From Net: NetName=SCL Pin=R12-1
+Removed Member From Class: ClassName=Sheet1 Member=C32
+Removed Member From Class: ClassName=Sheet1 Member=C33
+Removed Member From Class: ClassName=Sheet1 Member=C34
+Change Component Footprint: Designator=IMU Old Footprint=FP-BHI160B-MFG New Footprint=INSE-MPU-6500-QFN24_M
+Change Component Comment : Designator=IMU Old Comment=BHI160B New Comment=MPU-6500
+Change Managed Component Library Link : Designator=IMU Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D6972319-4949-44F7-B6A7-8793C2043272 New ItemGUID=E4E4CCCE-02D6-4D96-8CF2-6108EE18BBF7 Old RevisionGUID=BD033C48-A936-4933-8DEC-5EFF5332B265 New RevisionGUID=BA311D97-6FDE-4ECF-A590-9325971C4708
+Change component parameters: Designator = "IMU" ("IMU"); Footprint = "FP-BHI160B-MFG"; UniqueID = "\RQHBOSEZ" ("\RQHBOSEZ")
+Change component parameters (AddParameter): Name = "Article Library"; Value = "MCUsasSensorHubs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "Sensors,Transducers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/29175/mpu-6500-spec-29175093.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.0, 09/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dynamic Catalog"; Value = "MPU-6500Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "Multifunction"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Featured Product"; Value = "InvenSense-MPU-6500Six-Axis(Gyro+Acceleromete)MEMSMotionTrackingDevices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.invensense.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Online Catalog"; Value = "MPU-6500Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Other Names"; Value = "1428-1011-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Output Type"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensor Type"; Value = "GyroscopeandAccelerometer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "J1-0603"; UniqueID = "\QDRUJLRM" ("\QDRUJLRM")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "J1-0603"; UniqueID = "\CUZAXORH" ("\CUZAXORH")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Added Component: Designator=C45(0603 Cap)
+Added Component: Designator=C46(0603 Cap)
+Added Component: Designator=C47(0603 Cap)
+Added Component: Designator=GPS UFL(FP-U_FL-R-SMT-1_10-MFG)
+Add component (AddParameter): Name = "Body Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Coaxial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Beige"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "50R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "500MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "6GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "90°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "U.FL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.001764oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Type"; Value = "Coaxial"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C45-1
+Added Pin To Net: NetName=GND Pin=C45-2
+Added Pin To Net: NetName=3.3V Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-2
+Added Pin To Net: NetName=GPS SIG Pin=GPS UFL-1
+Added Pin To Net: NetName=GND Pin=GPS UFL-2
+Added Pin To Net: NetName=GND Pin=GPS UFL-3
+Added Pin To Net: NetName=MISO Pin=IMU-9
+Added Pin To Net: NetName=GND Pin=IMU-11
+Added Pin To Net: NetName=IMU INT Pin=IMU-12
+Added Pin To Net: NetName=GND Pin=IMU-19
+Added Pin To Net: NetName=SCLK Pin=IMU-23
+Added Pin To Net: NetName=MOSI Pin=IMU-24
+Added Pin To Net: NetName=GND Pin=IMU-25
+Added Pin To Net: NetName=IMU INT Pin=MCU-137
+Added Pin To Net: NetName=IMU INT Pin=P4-29
+Added Pin To Net: NetName=SCL Pin=R11-1
+Added Pin To Net: NetName=SDA Pin=R12-1
+Added Pin To Net: NetName=IMU CSN Pin=IMU-22
+Added Pin To Net: NetName=IMU CSN Pin=MCU-136
+Added Pin To Net: NetName=IMU CSN Pin=P4-28
+Added Net: Name=IMU CSN
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=IMU-10
+Added Net: Name=NetC47_1
+Added Member To Class: ClassName=Sheet1 Member=Component C45 10nF
+Added Member To Class: ClassName=Sheet1 Member=Component C46 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C47 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component CAN2 CON MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component GPS SMA 32K101-400L5
+Added Member To Class: ClassName=Sheet1 Member=Component GPS UFL U.FL-R-SMT-1(10)
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

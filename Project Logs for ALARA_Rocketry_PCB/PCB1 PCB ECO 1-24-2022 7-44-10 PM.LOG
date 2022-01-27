@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3.3V Pin=ACC-3
+Added Pin To Net: NetName=3.3V Pin=ACC-7
+Added Pin To Net: NetName=3.3V Pin=C31-1
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetIMU_12 Pin=P3-10
+Added Pin To Net: NetName=NetMCU_19 Pin=P1-19
+Added Pin To Net: NetName=NetMCU_20 Pin=P1-20
+Added Pin To Net: NetName=NetMCU_82 Pin=P3-10
+Added Pin To Net: NetName=NetMCU_83 Pin=P3-11
+Added Pin To Net: NetName=NetMCU_84 Pin=P3-12
+Added Pin To Net: NetName=NetMCU_95 Pin=P3-23
+Added Pin To Net: NetName=NetMCU_96 Pin=P3-24
+Added Pin To Net: NetName=NetMCU_106 Pin=P3-34
+Added Pin To Net: NetName=NetMCU_109 Pin=P4-1
+Added Pin To Net: NetName=NetMCU_110 Pin=P4-2
+Added Pin To Net: NetName=NetMCU_111 Pin=P4-3
+Added Pin To Net: NetName=NetMCU_112 Pin=P4-4
+Added Pin To Net: NetName=NetMCU_127 Pin=P4-19
+Added Pin To Net: NetName=NetMCU_129 Pin=P4-21
+Added Pin To Net: NetName=NetMCU_130 Pin=P4-22
+Added Pin To Net: NetName=NetMCU_131 Pin=P4-23
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

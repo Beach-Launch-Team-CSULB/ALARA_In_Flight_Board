@@ -1,0 +1,26 @@
+Added Component: Designator=C48(0603 Cap)
+Added Component: Designator=LoRa Misc(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LoRa SPI(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=3.3V Pin=LoRa Misc-1
+Added Pin To Net: NetName=GND Pin=LoRa Misc-2
+Added Pin To Net: NetName=SCLK Pin=LoRa SPI-1
+Added Pin To Net: NetName=MOSI Pin=LoRa SPI-2
+Added Pin To Net: NetName=MISO Pin=LoRa SPI-3
+Added Pin To Net: NetName=LoRa CSN Pin=LoRa SPI-4
+Added Net: Name=LoRa CSN
+Added Pin To Net: NetName=LoRa IRQ Pin=LoRa Misc-4
+Added Net: Name=LoRa IRQ
+Added Pin To Net: NetName=LoRa RST Pin=LoRa Misc-3
+Added Net: Name=LoRa RST
+Added Member To Class: ClassName=Sheet1 Member=Component C48 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component LoRa Misc Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component LoRa SPI Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

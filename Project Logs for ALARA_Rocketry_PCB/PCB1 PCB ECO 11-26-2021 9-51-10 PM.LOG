@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC40_1 Pin=CAN1 CON-6
+Removed Pin From Net: NetName=NetC40_1 Pin=Y3-3
+Change Component Comment : Designator=C99 Old Comment=C? New Comment=8pF
+Added Pin To Net: NetName=NetCAN1 CON_6 Pin=CAN1 CON-6
+Added Pin To Net: NetName=NetCAN1 CON_6 Pin=Y3-3
+Added Net: Name=NetCAN1 CON_6
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component Y3 CX2016DB40000D0FLJCC

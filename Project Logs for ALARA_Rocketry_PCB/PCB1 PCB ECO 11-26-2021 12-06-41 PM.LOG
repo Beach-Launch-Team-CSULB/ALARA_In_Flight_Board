@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=IMU GND New Net Name=GPS GND
+Change Net Name : Old Net Name=NetD2_1 New Net Name=GPS SIG
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2542FDT-E/MNY

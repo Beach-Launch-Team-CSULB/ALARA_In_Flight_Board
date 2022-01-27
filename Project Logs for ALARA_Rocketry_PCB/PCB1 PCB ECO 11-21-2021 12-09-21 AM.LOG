@@ -1,0 +1,41 @@
+Added Pin To Net: NetName=NetMCU?_32 Pin=MCU?-32
+Added Pin To Net: NetName=NetMCU?_32 Pin=P?-32
+Added Net: Name=NetMCU?_32
+Added Pin To Net: NetName=NetMCU?_37 Pin=MCU?-37
+Added Pin To Net: NetName=NetMCU?_37 Pin=P?-1
+Added Net: Name=NetMCU?_37
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component FB? 742792651
+Added Member To Class: ClassName=Sheet1 Member=Component FB? 742792651
+Added Member To Class: ClassName=Sheet1 Member=Component J? 1-770967-0
+Added Member To Class: ClassName=Sheet1 Member=Component JP? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P? Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R? 0603
+Added Member To Class: ClassName=Sheet1 Member=Component Y? NX2520SA-16MHZ-STD-CSW-5
+Added Room: Name=Sheet1

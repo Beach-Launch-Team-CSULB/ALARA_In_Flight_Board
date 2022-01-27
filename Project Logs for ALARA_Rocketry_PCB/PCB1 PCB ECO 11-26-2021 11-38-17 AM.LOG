@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_1 Pin=JP1-2
+Removed Pin From Net: NetName=NetC?_1 Pin=P1-1
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-3
+Added Component: Designator=C36(C0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NRF Misc(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NRF SPI(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net?_3 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetACC_12 Pin=NRF SPI-1
+Added Pin To Net: NetName=NetACC_2 Pin=NRF SPI-2
+Added Pin To Net: NetName=NetACC_1 Pin=NRF SPI-3
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Pin To Net: NetName=Net?_3 Pin=U?-3
+Added Pin To Net: NetName=NetC?_1 Pin=U?-14
+Change Net Name : Old Net Name=NetACC_1 New Net Name=NRF MISO
+Change Net Name : Old Net Name=NetACC_2 New Net Name=NRF MOSI
+Change Net Name : Old Net Name=NetACC_12 New Net Name=NRF SCK
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=P1-1
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NRF 3.3V Pin=C36-1
+Added Pin To Net: NetName=NRF 3.3V Pin=NRF Misc-1
+Added Pin To Net: NetName=NRF 3.3V Pin=U?-5
+Added Net: Name=NRF 3.3V
+Added Pin To Net: NetName=NRF CE Pin=MCU-96
+Added Pin To Net: NetName=NRF CE Pin=NRF Misc-3
+Added Pin To Net: NetName=NRF CE Pin=P3-24
+Added Net: Name=NRF CE
+Added Pin To Net: NetName=NRF CSN Pin=MCU-127
+Added Pin To Net: NetName=NRF CSN Pin=NRF SPI-4
+Added Pin To Net: NetName=NRF CSN Pin=P4-19
+Added Net: Name=NRF CSN
+Added Pin To Net: NetName=NRF GND Pin=C36-2
+Added Pin To Net: NetName=NRF GND Pin=NRF Misc-2
+Added Net: Name=NRF GND
+Added Pin To Net: NetName=NRF IRQ Pin=MCU-95
+Added Pin To Net: NetName=NRF IRQ Pin=NRF Misc-4
+Added Pin To Net: NetName=NRF IRQ Pin=P3-23
+Added Net: Name=NRF IRQ
+Added Member To Class: ClassName=Sheet1 Member=Component C36 0805
+Added Member To Class: ClassName=Sheet1 Member=Component C? 0805
+Added Member To Class: ClassName=Sheet1 Member=Component NRF Misc Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component NRF SPI Header 4
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2517FD-H/SL
+Added Member To Class: ClassName=Sheet1 Member=Component U? MCP2542FDT-E/MNY

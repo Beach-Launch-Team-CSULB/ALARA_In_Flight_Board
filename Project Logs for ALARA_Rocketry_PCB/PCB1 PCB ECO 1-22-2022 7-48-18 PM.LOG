@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=BAT-2
+Removed Member From Class: ClassName=Sheet1 Member=BAT
+Added Component: Designator=J?(PCBComponent_1)
+Added Pin To Net: NetName=NetBAT JP_2 Pin=BAT JP-2
+Added Net: Name=NetBAT JP_2
+Added Member To Class: ClassName=Sheet1 Member=Component J? XT30
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

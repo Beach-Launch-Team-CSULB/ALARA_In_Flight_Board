@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=SCK Pin=GPS-17
+Removed Pin From Net: NetName=SCK Pin=IMU-23
+Removed Pin From Net: NetName=NetIMU_12 Pin=MCU-82
+Removed Pin From Net: NetName=SCK Pin=MCU-83
+Removed Pin From Net: NetName=SDA Pin=MCU-84
+Removed Pin From Net: NetName=NRF IRQ Pin=MCU-95
+Removed Pin From Net: NetName=NRF CE Pin=MCU-96
+Removed Pin From Net: NetName=SCK Pin=MCU-110
+Removed Pin From Net: NetName=MOSI Pin=MCU-111
+Removed Pin From Net: NetName=MISO Pin=MCU-112
+Removed Pin From Net: NetName=NRF CSN Pin=MCU-127
+Removed Pin From Net: NetName=NetMCU_19 Pin=P1-19
+Removed Pin From Net: NetName=NetMCU_20 Pin=P1-20
+Removed Pin From Net: NetName=SCK Pin=P3-11
+Removed Pin From Net: NetName=SDA Pin=P3-12
+Removed Pin From Net: NetName=NRF IRQ Pin=P3-23
+Removed Pin From Net: NetName=NRF CE Pin=P3-24
+Removed Pin From Net: NetName=SCK Pin=P4-2
+Removed Pin From Net: NetName=MOSI Pin=P4-3
+Removed Pin From Net: NetName=MISO Pin=P4-4
+Removed Pin From Net: NetName=NRF CSN Pin=P4-19
+Removed Pin From Net: NetName=NetMCU_20 Pin=R1-1
+Removed Pin From Net: NetName=NetMCU_19 Pin=R2-1
+Removed Pin From Net: NetName=SCK Pin=R11-1
+Change Component Comment : Designator=C9 Old Comment=2.2uF New Comment=10uF
+Change Component Comment : Designator=C36 Old Comment=10uF New Comment=22uF
+Added Pin To Net: NetName=3.3V Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=3.3V Pin=NRF Misc-1
+Added Pin To Net: NetName=GND Pin=NRF Misc-2
+Change Net Name : Old Net Name=NetP2_2 New Net Name=USB D-
+Change Net Name : Old Net Name=NetP2_3 New Net Name=USB D+
+Change Net Name : Old Net Name=SCK New Net Name=SCLK
+Added Pin To Net: NetName=ACC CSN Pin=ACC-10
+Added Net: Name=ACC CSN
+Added Pin To Net: NetName=ACC INT1 Pin=ACC-5
+Added Net: Name=ACC INT1
+Added Pin To Net: NetName=ACC INT2 Pin=ACC-6
+Added Net: Name=ACC INT2
+Added Pin To Net: NetName=ACC TRIG Pin=ACC-4
+Added Net: Name=ACC TRIG
+Added Pin To Net: NetName=BPS CSN Pin=BPS-4
+Added Pin To Net: NetName=BPS CSN Pin=BPS-5
+Added Net: Name=BPS CSN
+Added Pin To Net: NetName=NetMCU_82 Pin=MCU-82
+Added Net: Name=NetMCU_82
+Added Pin To Net: NetName=NetMCU_83 Pin=MCU-83
+Added Net: Name=NetMCU_83
+Added Pin To Net: NetName=NetMCU_84 Pin=MCU-84
+Added Net: Name=NetMCU_84
+Added Pin To Net: NetName=NetMCU_95 Pin=MCU-95
+Added Net: Name=NetMCU_95
+Added Pin To Net: NetName=NetMCU_96 Pin=MCU-96
+Added Net: Name=NetMCU_96
+Added Pin To Net: NetName=NetMCU_106 Pin=MCU-106
+Added Net: Name=NetMCU_106
+Added Pin To Net: NetName=NetMCU_109 Pin=MCU-109
+Added Net: Name=NetMCU_109
+Added Pin To Net: NetName=NetMCU_110 Pin=MCU-110
+Added Net: Name=NetMCU_110
+Added Pin To Net: NetName=NetMCU_111 Pin=MCU-111
+Added Net: Name=NetMCU_111
+Added Pin To Net: NetName=NetMCU_112 Pin=MCU-112
+Added Net: Name=NetMCU_112
+Added Pin To Net: NetName=NetMCU_127 Pin=MCU-127
+Added Net: Name=NetMCU_127
+Added Pin To Net: NetName=NetMCU_129 Pin=MCU-129
+Added Net: Name=NetMCU_129
+Added Pin To Net: NetName=NetMCU_130 Pin=MCU-130
+Added Net: Name=NetMCU_130
+Added Pin To Net: NetName=NetMCU_131 Pin=MCU-131
+Added Net: Name=NetMCU_131
+Added Pin To Net: NetName=NetP1_19 Pin=P1-19
+Added Net: Name=NetP1_19
+Added Pin To Net: NetName=NetP1_20 Pin=P1-20
+Added Net: Name=NetP1_20
+Added Pin To Net: NetName=NetP3_11 Pin=P3-11
+Added Net: Name=NetP3_11
+Added Pin To Net: NetName=NetP3_12 Pin=P3-12
+Added Net: Name=NetP3_12
+Added Pin To Net: NetName=NetP3_23 Pin=P3-23
+Added Net: Name=NetP3_23
+Added Pin To Net: NetName=NetP3_24 Pin=P3-24
+Added Net: Name=NetP3_24
+Added Pin To Net: NetName=NetP3_34 Pin=P3-34
+Added Net: Name=NetP3_34
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_19 Pin=P4-19
+Added Net: Name=NetP4_19
+Added Pin To Net: NetName=NetP4_21 Pin=P4-21
+Added Net: Name=NetP4_21
+Added Pin To Net: NetName=NetP4_22 Pin=P4-22
+Added Net: Name=NetP4_22
+Added Pin To Net: NetName=NetP4_23 Pin=P4-23
+Added Net: Name=NetP4_23
+Added Pin To Net: NetName=SCK Pin=IMU-23
+Added Pin To Net: NetName=SCK Pin=R11-1
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=GPS-17
+Added Net: Name=SCL
+Added Pin To Net: NetName=USB0 DM Pin=R1-1
+Added Net: Name=USB0 DM
+Added Pin To Net: NetName=USB0 DP Pin=R2-1
+Added Net: Name=USB0 DP
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
