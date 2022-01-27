@@ -183,40 +183,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IZQVVGFX
 
 [Document9]
-DocumentPath=..\Teensy 3.6 Custom\ALARA_Avioinics_Board\CAP 0603.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RMTGBQCK
-
-[Document10]
-DocumentPath=..\Teensy 3.6 Custom\ALARA_Avioinics_Board\CAP 0603.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WQMIZYCK
-
-[Document11]
 DocumentPath=SOD-923.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -233,7 +199,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MWOTYOBC
 
-[Document12]
+[Document10]
 DocumentPath=Diode SOD-223.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,7 +216,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MORXMRZI
 
-[Document13]
+[Document11]
 DocumentPath=XT30.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -267,7 +233,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSTLQGVD
 
-[Document14]
+[Document12]
 DocumentPath=XT30.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1

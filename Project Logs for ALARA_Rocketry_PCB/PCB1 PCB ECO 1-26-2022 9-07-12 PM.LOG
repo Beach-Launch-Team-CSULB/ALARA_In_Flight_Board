@@ -1,0 +1,29 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=CMP-04774-000002-1 New DesignItemId=
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Change Component Library : Designator=J2 Old Library=Altium Content Vault New Library=
+Change Managed Component Library Link : Designator=J2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=6CDEA158-DA9A-49D5-A565-C223A65D9EB2 New ItemGUID= Old RevisionGUID=7CF25C15-97CD-44DB-9367-B60CD06A6E54 New RevisionGUID=
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=CAN1H Pin=CAN1 TRAN-7
+Added Pin To Net: NetName=CAN1H Pin=J2-7
+Added Pin To Net: NetName=CAN1H Pin=R14-1
+Added Net: Name=CAN1H
+Added Pin To Net: NetName=CAN1L Pin=CAN1 TRAN-6
+Added Pin To Net: NetName=CAN1L Pin=J2-2
+Added Pin To Net: NetName=CAN1L Pin=R14-2
+Added Net: Name=CAN1L
+Added Pin To Net: NetName=CAN2H Pin=CAN2 TRAN-7
+Added Pin To Net: NetName=CAN2H Pin=J2-8
+Added Pin To Net: NetName=CAN2H Pin=R15-1
+Added Net: Name=CAN2H
+Added Pin To Net: NetName=CAN2L Pin=CAN2 TRAN-6
+Added Pin To Net: NetName=CAN2L Pin=J2-1
+Added Pin To Net: NetName=CAN2L Pin=R15-2
+Added Net: Name=CAN2L
+Added Pin To Net: NetName=CAN SHIELD Pin=J2-5
+Added Net: Name=CAN SHIELD
+Added Pin To Net: NetName=DSUB IO1 Pin=J2-6
+Added Net: Name=DSUB IO1
+Added Pin To Net: NetName=DSUB IO2 Pin=J2-9
+Added Net: Name=DSUB IO2
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
