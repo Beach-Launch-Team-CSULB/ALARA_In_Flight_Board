@@ -1,0 +1,12 @@
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Add Component: Footprint Not Found 0603 Cap
+Add Component: Footprint Not Found 0603 Cap
+Add Pin To Net: Unknown Pin: Pin C49-1
+Add Pin To Net: Unknown Pin: Pin C49-2
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Member To Class: ClassName=Sheet1 Member=Component C31 100nF
+Add Class Member: Failed to add class member : Component C49 100nF
+Add Class Member: Failed to add class member : Component C50 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2

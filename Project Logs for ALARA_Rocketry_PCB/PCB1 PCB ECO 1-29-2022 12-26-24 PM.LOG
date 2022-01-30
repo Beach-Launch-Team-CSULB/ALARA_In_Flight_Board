@@ -1,0 +1,16 @@
+Change Footprint: Footprint Not Found FP-83611-9006-MFG
+Added Component: Designator=C49(CAPC1608X95X40ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y104KXQCW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPC1608X95X40ML15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0603Y104KXQCW1BC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C49-1
+Added Pin To Net: NetName=3.3V Pin=C49-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=3.3V Pin=C50-2
+Add Pin To Net: Unknown Pin: Pin MCU-55
+Added Member To Class: ClassName=Sheet1 Member=Component C49 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C50 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 18X2
+Added Room: Name=Sheet1

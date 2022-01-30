@@ -250,79 +250,100 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHUYWCLG
 
+[Document13]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1.EXTREP
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1.REP
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Drawing_1.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Drillmap_1.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Legend_Bot.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Legend_Top.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_NPTH_Drill.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Pads_Bot.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Pads_Top.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Paste_Bot.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Paste_Top.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Profile.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_PTH_Drill.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
 DocumentPath=Project Outputs for ALARA_Rocketry_PCB\PCB1_Soldermask_Top.gbr
 DItemRevisionGUID=
 
